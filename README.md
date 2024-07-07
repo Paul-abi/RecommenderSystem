@@ -1,5 +1,12 @@
 # MoviePairing
 
+# Download IMDb Dataset
+The project needs the dowload of 
+* https://datasets.imdbws.com/name.basics.tsv.gz
+* https://datasets.imdbws.com/title.basics.tsv.gz
+
+inside the data folder
+
 ## Data Collection and Preparation
 
 #### MovieLens Dataset:
